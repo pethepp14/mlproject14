@@ -1,0 +1,5 @@
+ML End to End Project :
+
+1) Create a new repository. https://github.com/pethepp14/mlproject14.git
+2) create a folder for mlproject 14 , copy its path and in Anaconda Prompt.
+	cd F:\Computer_Science\mlproject14
